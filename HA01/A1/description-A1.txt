@@ -9,19 +9,19 @@ Input and output: 1. Enter IP address: 0.0.0.0
                      The IP address is valid,
                      But is not publically assignable
 
-	                2. Enter IP address: 123.25.9.122
-		                 The IP address is valid,
-	                   And is publically assignable
+	           2. Enter IP address: 123.25.9.122
+		      The IP address is valid,
+	              And is publically assignable
 	          
                   3. Enter IP address: 256.34.78.222
-		                 Invalid Ip address
+		     Invalid Ip address
 
 Things learnt: An ip address is said to be valid if it is of the form 'xxx.xxx.xxx.xxx' where xxx can be a number from 0-255.
- 	             An ip address that your home or business router recieves from your ISP (internet service provider) is called a publicly 
-	             assignable ip address.
-	             The range of the publicly assignable ip addresses should be  -> 1.0.0.1 - 9.255.255.255
-							                                                              -> 11.0.0.1 - 126.255.255.255
-							                                                              -> 127.0.0.1 - 127.0.0.255
-							                                                              -> 128.0.0.1 - 239.255.255.255
+ 	       An ip address that your home or business router recieves from your ISP (internet service provider) is called a publicly 
+	       assignable ip address.
+	       The range of the publicly assignable ip addresses should be  -> 1.0.0.1 - 9.255.255.255
+							                    -> 11.0.0.1 - 126.255.255.255
+							                    -> 127.0.0.1 - 127.0.0.255
+							                    -> 128.0.0.1 - 239.255.255.255
 
 
